@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Gantwerker;Eric;;;
-FN: Eric  Gantwerker, MD, MMSc(MedEd), FACS 
+N:Gantwerker, MD, MMSc(MedEd), FACS;Eric;;;
+FN: Eric  Gantwerker
 ORG:Level Ex\nNorthwell Health;
 TITLE:Vice President, Medical Director\nAssociate Professor of Otolaryngology\nPediatric Otolaryngology
 EMAIL;type=INTERNET;type=WORK;type=pref:eric.gantwerker@gmail.com
