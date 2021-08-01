@@ -52,7 +52,7 @@ img.profile-pic {
 	flex-wrap: nowrap;
 	flex-direction: row;
 	position: relative;
-	height: 120%;
+	height: 100%;
 	width: 100%;
 }
 
@@ -90,7 +90,7 @@ img.profile-pic {
 
 .col.is-5 {
 	flex: none;
-	width: 50%;
+	width: 40%;
 }
 
 .col.is-6 {
